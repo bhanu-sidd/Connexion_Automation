@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Logged in successful]]>
+    </line>
+    <line>
+      <![CDATA[User details updated]]>
+    </line>
+    <line>
+      <![CDATA[New publisher details added]]>
+    </line>
+    <line>
+      <![CDATA[Publisher details updated]]>
+    </line>
+    <line>
+      <![CDATA[Publisher deleted ]]>
+    </line>
+    <line>
+      <![CDATA[New Organization details added]]>
+    </line>
+    <line>
+      <![CDATA[Organization details updated]]>
+    </line>
+    <line>
+      <![CDATA[Organization deleted ]]>
+    </line>
+    <line>
+      <![CDATA[New app details added]]>
+    </line>
+    <line>
+      <![CDATA[App deleted ]]>
+    </line>
+    <line>
+      <![CDATA[New catalog details added]]>
+    </line>
+    <line>
+      <![CDATA[Catalog details updated]]>
+    </line>
+    <line>
+      <![CDATA[Catalog details updated]]>
+    </line>
+    <line>
+      <![CDATA[Catalog deleted ]]>
+    </line>
+    <line>
+      <![CDATA[New Kiosk Added ]]>
+    </line>
+    <line>
+      <![CDATA[Kiosk details updated]]>
+    </line>
+    <line>
+      <![CDATA[Kiosk mapping updated]]>
+    </line>
+    <line>
+      <![CDATA[Kiosk deleted ]]>
+    </line>
+    <line>
+      <![CDATA[Log out from the application]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="532821" started-at="2018-09-04T02:50:45Z" finished-at="2018-09-04T02:59:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="532821" started-at="2018-09-04T02:50:45Z" finished-at="2018-09-04T02:59:38Z">
+      <class name="testCases.ExecuteTest">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:testCases.ExecuteTest@13ad2d6]" name="testLogin" duration-ms="532790" started-at="2018-09-04T02:50:45Z" finished-at="2018-09-04T02:59:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged in successful]]>
+            </line>
+            <line>
+              <![CDATA[User details updated]]>
+            </line>
+            <line>
+              <![CDATA[New publisher details added]]>
+            </line>
+            <line>
+              <![CDATA[Publisher details updated]]>
+            </line>
+            <line>
+              <![CDATA[Publisher deleted ]]>
+            </line>
+            <line>
+              <![CDATA[New Organization details added]]>
+            </line>
+            <line>
+              <![CDATA[Organization details updated]]>
+            </line>
+            <line>
+              <![CDATA[Organization deleted ]]>
+            </line>
+            <line>
+              <![CDATA[New app details added]]>
+            </line>
+            <line>
+              <![CDATA[App deleted ]]>
+            </line>
+            <line>
+              <![CDATA[New catalog details added]]>
+            </line>
+            <line>
+              <![CDATA[Catalog details updated]]>
+            </line>
+            <line>
+              <![CDATA[Catalog details updated]]>
+            </line>
+            <line>
+              <![CDATA[Catalog deleted ]]>
+            </line>
+            <line>
+              <![CDATA[New Kiosk Added ]]>
+            </line>
+            <line>
+              <![CDATA[Kiosk details updated]]>
+            </line>
+            <line>
+              <![CDATA[Kiosk mapping updated]]>
+            </line>
+            <line>
+              <![CDATA[Kiosk deleted ]]>
+            </line>
+            <line>
+              <![CDATA[Log out from the application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- testCases.ExecuteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
